@@ -1,6 +1,4 @@
-Ronny
+This is a list of names for me to get experience
 Paul
-myTest
-test 2
-test 3
-test 4
+Reshell
+Luke
