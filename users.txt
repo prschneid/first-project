@@ -1,4 +1,3 @@
-Luke
 Paul
 Tom
 Reshell
