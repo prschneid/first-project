@@ -4,4 +4,3 @@ Reshell
 Cresley
 Dave
 Jeff
-Rick
